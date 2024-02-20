@@ -25,6 +25,7 @@ Ejecución y Respuesta: Los beacons ejecutan los comandos recibidos y reportan l
 
 ## Prerrequisitos 
 Python 3.x 
+
 Comprensión básica de conceptos de redes 
 
 ## Empezar 
