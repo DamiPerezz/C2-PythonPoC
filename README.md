@@ -33,8 +33,9 @@ Comprensión básica de conceptos de redes
 2. Navega hasta el directorio del proyecto. 
 3. Inicia el servidor C2 ejecutando python C2.py. 
 4. Cambiar y confugurar direcccion IP y puerto en Beacon a la del C2
-5. Despliega el script Beacon.py en sistemas objetivo. Configura el script del beacon para conectarse al servidor C2. 
-6. Ejecuta el script del beacon en sistemas objetivo. Interactúa con el servidor C2 enviando comandos a los beacons. 
+5. Despliega el script Beacon.py en sistemas objetivo. 
+6. Ejecuta el script del beacon en sistemas objetivo.
+7. Interactúa con el servidor C2 enviando comandos a los beacons. 
 ## Limitaciones 
 Limitado a funcionalidades básicas con propósitos educativos. 
 Carece de características de seguridad avanzadas encontradas en frameworks C2 profesionales. 
