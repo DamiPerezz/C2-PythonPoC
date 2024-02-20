@@ -3,7 +3,7 @@
 ## Introducción 
 Este proyecto es una implementación a pequeña escala de un servidor de Comando y Control (C2) utilizando beacons en Python. Fue creado principalmente con el propósito de estudiar programación concurrente y distribuida para un examen en la materia. El proyecto se centra en conceptos fundamentales de ciberseguridad, incluyendo comunicación de red, concurrencia y ejecución de comandos.
 
-##Visión general 
+## Visión general 
 El servidor C2 actúa como un punto de control central para gestionar múltiples agentes, llamados "beacons", desplegados en sistemas objetivo. Estos beacons establecen una conexión persistente con el servidor y esperan comandos. Al recibir un comando del servidor, un beacon ejecuta la acción especificada y reporta los resultados.
 
 ## Características
@@ -23,11 +23,11 @@ Envío de Comandos: El servidor envía comandos a los beacons conectados.
 
 Ejecución y Respuesta: Los beacons ejecutan los comandos recibidos y reportan los resultados de vuelta al servidor. Comunicación Continua: El ciclo de comunicación entre el servidor y los beacons asegura un monitoreo y control continuo. 
 
-##Prerrequisitos 
+## Prerrequisitos 
 Python 3.x 
 Comprensión básica de conceptos de redes 
 
-##Empezar 
+## Empezar 
 1. Clona el repositorio en tu máquina local. 
 2. Navega hasta el directorio del proyecto. 
 3. Inicia el servidor C2 ejecutando python C2.py. 
